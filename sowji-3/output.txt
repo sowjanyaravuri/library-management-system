@@ -1,0 +1,11 @@
+Library Management System Simulation Output
+==========================================
+
+Time=0    Issue=0 Return=0 Available=1 Issued=0
+Time=20   Issue=1 Return=0 Available=0 Issued=1
+Time=40   Issue=1 Return=0 Available=0 Issued=1
+Time=60   Issue=0 Return=1 Available=1 Issued=0
+Time=80   Issue=0 Return=1 Available=1 Issued=0
+Time=100  Issue=1 Return=0 Available=0 Issued=1
+
+Simulation completed successfully.
